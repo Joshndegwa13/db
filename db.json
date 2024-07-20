@@ -58,7 +58,7 @@
       "goal": "endurance",
       "level": "beginner",
       "exercises": [
-        {"name": "Brisk Walking", "sets": 3, "reps": "30minutes"},
+        {"name": "Brisk Walking", "sets": 3, "reps": "30m"},
         {"name": "Cycling", "sets": 3, "reps": "20m"},
         {"name": "Swimming", "sets": 3, "reps": "20m"}
       ]
